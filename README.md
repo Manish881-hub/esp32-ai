@@ -2,8 +2,8 @@
 
 <p align="center">
   Open to Work &nbsp;·&nbsp;
-  <a href="https://x.com/slvDev">𝕏 slvDev</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/slvdev/">LinkedIn</a>
+  <a href="https://x.com/ManishBhakti">Manish Bhakti</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/manish-bhaktisagar/">LinkedIn</a>
 </p>
 
 ![28.9M-parameter LLM running on an ESP32-S3](media/esp32-ple-demo.gif)
